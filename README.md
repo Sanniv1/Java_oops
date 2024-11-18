@@ -1,5 +1,3 @@
-Here’s a professional example of a README file for a GitHub project about Object-Oriented Programming (OOP) in Java:
-
 ---
 
 # Object-Oriented Programming (OOP) in Java
